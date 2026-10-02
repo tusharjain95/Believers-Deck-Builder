@@ -1,0 +1,6 @@
+{
+  "name": "BNI Weekly Deck Builder",
+  "description": "Browser-only PowerPoint deck builder for BNI Believers chapter. Parses PPTX XML tags, inspects template structure, and maps weekly presentation fields without modifying design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
